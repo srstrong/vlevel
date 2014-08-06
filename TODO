@@ -1,0 +1,9 @@
+More extensive testing, exotic channel config, feedback on other platforms
+
+Modify LADSPA plugin to silence silent data, to remove click when changing buffer size in XMMS.
+
+Optimize for mono and stereo special cases
+
+Cool FXRuby GUI with SOX
+
+Rememember: when updating version, change in docs, readme, and vlevel-bin.cpp
